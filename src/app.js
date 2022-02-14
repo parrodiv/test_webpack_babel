@@ -10,4 +10,4 @@ async function getPost(){
     return data;
 }
 
-getPost().then( posts => console.log(posts));
+getPost().then( posts => console.log(posts[0]));
