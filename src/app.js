@@ -1,3 +1,3 @@
-let func = () => console.log('caro');
+let func = () => console.log('prova');
 
 func();
